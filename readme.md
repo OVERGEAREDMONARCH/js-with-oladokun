@@ -1,2 +1,2 @@
 js.sciences
-this contains my java script
+excercise 1 with Mr Oladokun
